@@ -2,7 +2,7 @@
 layout: page
 title: Lab 1 IntelliJ, Java, git
 permalink: /Lab01/
-nav_order: 2
+nav_order: 3
 parent: L01 Intro, Hello World Java
 
 
